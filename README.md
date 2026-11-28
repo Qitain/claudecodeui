@@ -1,3 +1,5 @@
+> **Attribution:** This project is a fork of [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui), adapted and modified for personal use. All credit for the original work goes to the upstream authors.
+
 <div align="center">
  <img src="public/logo.svg" alt="CloudCLI UI" width="64" height="64">
  <h1>Cloud CLI (aka Claude Code UI)</h1>
